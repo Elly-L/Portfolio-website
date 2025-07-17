@@ -9,6 +9,20 @@ import { Clock } from "lucide-react"
 
 const projects = [
   {
+    id: 15,
+    title: "AbiCare AI",
+    description:
+      "Your Intelligent Health Companion - a symptom-based checker providing friendly, concise diagnostic suggestions and gentle guidance based on your symptoms, powered by advanced AI. It serves as a private health companion, always there to listen.",
+    image: "/images/abicare-ai-screenshot.png",
+    category: "AI",
+    technologies: ["AI", "Machine Learning", "Natural Language Processing", "Web Development"],
+    challenges:
+      "Developing highly accurate AI models for symptom analysis and diagnostic suggestions, ensuring data privacy and security for sensitive health information, and creating a user-friendly interface for intuitive symptom input.",
+    results:
+      "Successfully launched an accessible AI-powered health companion that provides preliminary health insights and guidance, empowering users with information for better health management.",
+    url: "https://abi-care-ai.netlify.app/",
+  },
+  {
     id: -3,
     title: "NGAO",
     description:

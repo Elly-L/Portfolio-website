@@ -57,6 +57,13 @@ const testimonials = [
 
 const projects = [
   {
+    title: "AbiCare AI",
+    description:
+      "Your Intelligent Health Companion - a symptom-based checker providing friendly, concise diagnostic suggestions and gentle guidance based on your symptoms, powered by advanced AI.",
+    url: "https://abi-care-ai.netlify.app/",
+    image: "/images/abicare-ai-screenshot.png",
+  },
+  {
     title: "NGAO",
     description:
       "An advanced verification platform that helps distinguish authentic content from AI-generated misinformation.",
